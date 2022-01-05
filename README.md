@@ -1,2 +1,2 @@
 # gitexamples
-git related examples
+git related examples for D
